@@ -60,7 +60,7 @@
   </main>
 
   <footer class="glass">
-    <p>© <span id="year"></span> DxLab — Made with ♥</p>
+    <p>© <span id="year"></span> DxLab — PS:23 </p>
   </footer>
 
   <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
